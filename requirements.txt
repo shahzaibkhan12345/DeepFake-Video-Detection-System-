@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+opencv-python
+tqdm
+numpy
+facenet-pytorch

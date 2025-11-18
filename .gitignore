@@ -74,9 +74,14 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
-
+data/
 # Jupyter Notebook
 .ipynb_checkpoints
+# Ignore the processed_images and processed_image folders wherever they are in the repo
+processed_images/
+processed_image/
+
+# Or more defensive versions:
 
 # IPython
 profile_default/
